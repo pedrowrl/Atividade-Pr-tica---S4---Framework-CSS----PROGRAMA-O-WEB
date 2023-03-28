@@ -1,0 +1,22 @@
+h1 {
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  }
+  
+  a {
+    color: #f2ff00;
+    text-decoration: none;
+    }
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+  }   
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  }
